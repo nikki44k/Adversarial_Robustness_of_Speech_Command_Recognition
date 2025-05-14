@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Data and model weights
+speech_command_adversarial/speech_command_adversarial/data/
+speech_command_adversarial/speech_command_adversarial/*.pth
+
+# OS and editor files
+.DS_Store
+*.swp
